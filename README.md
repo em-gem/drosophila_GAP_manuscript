@@ -1,2 +1,8 @@
 # drosophila_GAP_manuscript
-A quantitative pipeline for measuring circularity/convex hull area and quantifying protrusions of border cell clusters in the Drosophila ovary
+A quantitative pipeline for:
+- Processing Dropseq single-cell RNAseq data from stage 10 egg chambers in Drosophila ovaries (Shell)
+- Measuring GAP expression from Dropseq data and plotting data (RStudio)
+- Take microscopy data and maximum-project the membrane channel using Fiji/ImageJ macro
+- Segment and binarize maximum projection (Python)
+- Measuring circularity and convex hull area of border cell clusters in the Drosophila ovary (Python)
+- Quantifying protrusions of border cells (Python)
