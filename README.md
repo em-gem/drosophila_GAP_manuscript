@@ -6,3 +6,8 @@ A quantitative pipeline for:
 - Segment and binarize maximum projection (Python)
 - Measuring circularity and convex hull area of border cell clusters in the Drosophila ovary (Python)
 - Quantifying protrusions of border cells (Python)
+
+
+Prerequisites for analysis:
+[R and RStudio](https://posit.co/downloads/)
+[ImageJ/FIJI](https://fiji.sc/)
