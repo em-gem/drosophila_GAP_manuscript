@@ -9,5 +9,7 @@ A quantitative pipeline for:
 
 
 Prerequisites for analysis:
+
 [R and RStudio](https://posit.co/downloads/)
+
 [ImageJ/FIJI](https://fiji.sc/)
