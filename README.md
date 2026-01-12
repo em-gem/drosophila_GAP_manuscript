@@ -10,6 +10,6 @@ A quantitative pipeline for:
 
 Prerequisites for analysis:
 
-[R and RStudio](https://posit.co/downloads/)
-
-[ImageJ/FIJI](https://fiji.sc/)
+- [R and RStudio ](https://posit.co/downloads/) 
+- [Python and Spyder ](https://www.python.org/downloads/) 
+- [ImageJ/FIJI ](https://fiji.sc/) 
